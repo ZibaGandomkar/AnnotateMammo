@@ -13,7 +13,6 @@ from tkinter import font
 
 from PIL import Image
 from PIL import ImageTk
-from pprint import pprint
 
 main = Tk()
 main.title('BREAST App for offline annotating')
