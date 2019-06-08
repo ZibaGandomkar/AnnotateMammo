@@ -1,3 +1,4 @@
+# An app for annotatting mammo images
 from tkinter import *
 from tkinter import Button
 from tkinter import Text
